@@ -1,0 +1,9 @@
+{
+  "name": "psyc-tower",
+  "version": "1.0.0",
+  "title": "Psyc Tower",
+  "author": "Darkredstone_15",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.0.0"],
+  "description": "Adds a tower that converts up to 3 enemies into allies, turning them against their own kind. They die after 30 seconds due to the strain on their minds."
+}
